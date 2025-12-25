@@ -22,7 +22,7 @@ This project provides a Docker Compose setup for a 3-node Apache Kafka cluster u
 
 2. **Navigate to the project directory**:
    ```bash
-   cd Kafka-Compose
+   cd Kafka-Krat-Kafbat
    ```
 
 3. **Start the Kafka cluster and UI**:
