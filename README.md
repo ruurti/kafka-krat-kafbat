@@ -2,6 +2,13 @@
 
 This project provides a Docker Compose setup for a 3-node Apache Kafka cluster using KRaft (Kafka Raft) for metadata management. It includes SASL PLAIN authentication for secure communication and Kafbat UI for cluster management and monitoring.
 
+
+## References
+
+* Apache Kafka: https://kafka.apache.org/
+* Kraft: https://kafka.apache.org/41/operations/kraft/
+* Kafbat UI: https://kafbat.io/
+
 ## Features
 
 - **KRaft Mode**: Uses Kafka's built-in Raft consensus for controller quorum, eliminating the need for ZooKeeper.
